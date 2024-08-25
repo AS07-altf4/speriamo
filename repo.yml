@@ -1,4 +1,0 @@
-type: generic
-upstream:
-  - repo: balena-minecraft-server
-    url: https://github.com/AlexProgrammerDE/balena-minecraft-server
